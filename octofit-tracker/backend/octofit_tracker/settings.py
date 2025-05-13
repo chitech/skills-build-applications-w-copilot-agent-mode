@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-kx@z$z$xmho74jfb4ci*nwci++bex!8dm88ahju*9r*k%h84o$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['verbose-guacamole-r64ppjjxw25g97-8000.app.github.dev', 'localhost']
 
 
 # Application definition
